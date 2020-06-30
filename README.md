@@ -1,2 +1,3 @@
 1rst bad idea 
-![idea Schema](assets/bad idea.svg)
+
+Look in Notes

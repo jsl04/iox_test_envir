@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2020-06-30T21:10:10.406Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="XI4CenE8X9BX15812Pw5" version="13.3.5" type="device"><diagram id="886pBXpuR2iEZojwl91C" name="Page-1">zZZNc5swEIZ/DcfMAMIYX03cxIdOJ3HaTo8CKaBWIEYIg/vruwQBxiJJMxMnPrF6tVqhZ1cfFgqz5kbiIv0qCOWWa5PGQteW6zp2sIJPqxw6xV/ZnZBIRrTTKOzYX9qP1GrFCC0njkoIrlgxFWOR5zRWEw1LKeqp26Pg01kLnFBD2MWYm+pPRlTaqcHCHvVbypK0n9mxdU+Ge2ctlCkmoj6S0MZCoRRCdVbWhJS38Hou3bgvz/QOPyZprv5nQElI+vvH/vDr+5I427v6oYriKx1lj3mlFxxyURFImo+zwkLrPCrbj16COvRc6pQpuitw3LZryD04pSrj0HLAxGXRZeORNZQMAfZUKto8uwBnwAL1REVGlTyAix6w1CB1JTl9DuoxL46ntfQ4J72IdS0kQ+gRFxia2BvouQa9TXh/CaiQe8LKNlkFM6iCc5FCBqlrEf+h8raKLpHXcPx8Fi/P3JdbCBSC5XOYfB1JsJLWCuHMbRfLCspZTg2cUlQ5aUE90XsF7juwdIIpSzS3T90ZmP65YC4MmBcHyfM+G5L/OiSIAtcuNNZwlxWtGLeXxYcA806AOSsTGJrboufbo0vzTNvsc6rMLbr91pgX6qnTDuckEs0LpWl/COnF6uQsnCH9XqUJzfEB9NR39IxEm38=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-06-30T21:18:46.599Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="ShPmy7jT_cZSiVoEQEDh" version="13.3.5" type="github">
+  <diagram id="886pBXpuR2iEZojwl91C" name="Page-1">
+    <mxGraphModel dx="1089" dy="641" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sddhjVvyYU7d1IQwTubc-1" value="Cloud9&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="70" y="150" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="sddhjVvyYU7d1IQwTubc-2" value="ECR" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="320" y="100" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sddhjVvyYU7d1IQwTubc-3" value="DockerHub" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="320" y="210" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sddhjVvyYU7d1IQwTubc-4" value="CI/CD&lt;br&gt;Code pipeline" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="180" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sddhjVvyYU7d1IQwTubc-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="180" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sddhjVvyYU7d1IQwTubc-6" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="190" width="380" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="sddhjVvyYU7d1IQwTubc-7" value="DEvnet&lt;br&gt;IOx&amp;nbsp;&lt;br&gt;Sandbox" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="590" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
